@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on python projects in general
 - 📫 How to reach me:
     - gabriribeiro5@live.com
-    - linkedin.com/in/gabriribeiro/
+    - www.linkedin.com/in/gabriribeiro/
 
 <!---
 gabriribeiro5/gabriribeiro5 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
